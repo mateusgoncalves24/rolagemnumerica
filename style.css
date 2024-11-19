@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:rgb(230, 194, 194) ;
+
+}
+header{
+    background-color: brown;
+    padding: 30px;
+}
+h1{
+    text-align: center;
+    
+
+}
+.container{
+    background-color: rgb(233, 139, 139);
+    margin: 15px 25%;
+    padding: 10px 20px;
+    border-radius: 20px;
+    text-align: justify;
+}
+
+/* .text{
+    text-align: justify;
+    margin: 15px 15%;
+} */
+
+.secao{
+    background-color: rgb(185, 126, 126);
+    display: flex;
+    justify-content: space-around;
+    padding: 40px;
+    margin: 15px 15%;
+    border-radius: 20px;
+    
+
+}
